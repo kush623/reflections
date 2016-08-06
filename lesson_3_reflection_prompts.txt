@@ -42,3 +42,10 @@ After you ran git push, your change should have existed locally and on your fork
 It should not have existed on Larry's repository, which is the repository you 
 forked. The reason you forked in the first place is because you don't have 
 permission to change Larry's repository!
+
+Describe the differences between forks, clones, and branches. When would you use 
+one instead of another?
+
+    Fill in your answer here
+
+
